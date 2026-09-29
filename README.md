@@ -1,6 +1,6 @@
 # Engr-480-capstone
 
-So this is our Capstone GitHub where we will store out cad / Code files with live updates 
+So this is our Capstone GitHub where we will store our CAD / Code files with live updates 
 
 Team members     &   Email
 

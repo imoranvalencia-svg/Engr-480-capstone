@@ -5,8 +5,11 @@ So this is our Capstone GitHub where we will store our CAD / Code files with liv
 Team members     &   Email
 
 Dylan Deeny        ddeeny@csumb.edu
+
 Donnavie Hensley   dohensley@csumb.edu
+
 Shane Martinez     shanmartinez@csumb.edu
+
 Ivan Moran V       imoranvalencia@csumb.edu
 
  
